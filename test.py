@@ -37,7 +37,7 @@ def main():
     person = choice(people)
     print(person)
     print(person.name)
-    person.name = 'new'
+    person.name = 'news'
     print(person)
     del person.name
     print(person)

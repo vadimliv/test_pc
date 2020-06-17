@@ -23,7 +23,7 @@ class Person:
 
 
 def test() -> int:
-    return 10
+    return 20
 
 
 def main():
